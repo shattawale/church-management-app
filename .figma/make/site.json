@@ -1,0 +1,10 @@
+{
+  "description": "Streamline church operations with tools for member management, event scheduling, and communication, enhancing community engagement and organization.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
